@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624324147010",
+    "project_id": "delivery-tracker-1e4bb",
+    "storage_bucket": "delivery-tracker-1e4bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624324147010:android:b6e59efe679c45ff5dfadb",
+        "android_client_info": {
+          "package_name": "com.example.deliverytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624324147010-lhrqtajkmmn4o4qbcn3b8ifjgjerljq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKLgSpM75Gf9mwV05jM3VuzOkJwNi9Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624324147010-lhrqtajkmmn4o4qbcn3b8ifjgjerljq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
